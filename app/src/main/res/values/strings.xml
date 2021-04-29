@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ad</string>
+    <string name="name">Full Name</string>
+    <string name="name1">First Name</string>
+    <string name="name2">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="gender1">Male</string>
+    <string name="gender2">Female</string>
+    <string name="ID">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+</resources>
